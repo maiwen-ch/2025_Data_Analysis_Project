@@ -162,6 +162,3 @@ Introduction to GitHub
 > [Push / Pull changes in GitHub](https://youtu.be/dz7x5MoZdbA)  
 > [Resolve conflicts](https://youtu.be/2P5FM2WTNcQ)  
 <br>
-
-These are the Python Notebook files with Python intro provided by David Schwarzenbacher  
-> [Python notebooks (D. Schwarzenbacher)](https://www.hdsu.org/teaching/downloads/Python_Intro.zip)
