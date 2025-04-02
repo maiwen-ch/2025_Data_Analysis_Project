@@ -55,8 +55,8 @@ You can find a description of the 5 topics here:
 - Topic 01 : [Biomedical Image Analysis](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_01_Biomedical_Image_Analysis) (Karl Rohr & Leonid Kostrykin - Python)
   - Tutor: Bastian Mucha	<bastian.mucha@stud.uni-heidelberg.de>
 
-- Topic 02: [Cancer Hallmark and Metabolic Pathways in Cancer](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_02_Drug_Cancer_Hallmarks) (Alexander Sasse - Python)
-  - Tutorin: Anna von Bachmann (anna.vonbachmann@stud.uni-heidelberg.de)
+- Topic 02: [Gene Regulation of Immune Cells](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_02_Gene_Regulation_of_Immune_Cells.git) (Alexander Sasse - Python)
+  - Tutorin: Aidana	Smugalova <aidana.smagulova@stud.uni-heidelberg.de>
 
 - Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_03_Proteome_Screen) (Maiwen Caudron-Herger - R)
   - Tutor: Malte Hermes (malte.hermes@dkfz-heidelberg.de)
