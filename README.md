@@ -25,7 +25,7 @@ In a nutshell…
 - prepare and present a 10 min. project proposal on Wednesday 14.05
 - work on your project during the whole term
 - meet your tutor every week (max. 30 min per group)
-- get your repository completed, including the final report until Monday 07.07
+- get your repository completed until Monday 07.07
 - give a final poster presentation on Wednesday 09.07
 <br>
 
@@ -39,7 +39,7 @@ Important dates
   - introduction to Markdown / Github
     
 - Tutorial Wednesday 30.04
-  - More specific information about the final report
+  - More specific information about the presentations and evaluations
   - Introduction to visual communication for scientists (slides, poster)
 <br>
 
@@ -100,14 +100,14 @@ What am I supposed to do?
 
 - **select your project and you team mates and register before Monday, 21.04, 10 am**
 - **Project presentation on 14.05.25**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to address in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them.
-- **Final report as PDF file** (should be placed in the GitHub repositrory) **until 07.07.25 latest** as the **repositories will be closed on 07.07. at 12 pm**.
-- **Final presentation on 09.07.25** (5 min poster presentation + 10 minutes discussion/questions)
+- **Final RMarkdown/Jupyther notebook** (should be placed in the GitHub repositrory) **until 07.07.25 latest** as the **repositories will be closed on 07.07. at 12 pm**.
+- **Final presentation on 09.07.25** (10 min poster presentation + 10 minutes discussion/questions)
 <br>
 
 How will I be evaluated?
 ------------------------
 
-Each student will have an individual evaluation! This will take into account the 2 presentations listed above, as well as the report.  
+Each student will have an individual evaluation! This will take into account the 2 presentations listed above.  
 <br>
 Here are the relevant points taken into account during the project proposal presentation:  
 
@@ -120,12 +120,12 @@ Here are the relevant points taken into account during the project proposal pres
 - During the oral presentations, each student will be asked to explain part of the analysis, especially to explain the code! So everyone should make sure to be involved in the project.
 <br>
 
-Final reports will be submitted (or “committed”) to the Github repository of the group as a .Rmd or .ipynb file AND **a final PDF file**.
+Final script will be submitted (or “committed”) to the Github repository of the group as a .Rmd or .ipynb file.
 
 **Important note**: *Science is collaboration!* so please make sure to share your insights/knowledge with other groups! You are free to choose whatever way to do so, e.g. Whatsapp groups or Slack groups.
 
 > *Practical aspects*  
-> Depending on the projects, you will use either R (Topics 03/04/05) or python (Topics 01/02).
+> Depending on the projects, you will use either R (Topics 03/05) or python (Topics 01/02/04).
 <br>
 
 > *R-based projects*  
@@ -137,7 +137,7 @@ For those of you who want to work on their laptops, you can install RStudio usin
 <br>
 
 - RMarkdown documents  
-These will consist in a mixture of plain text (explanations about the analysis, comments,…) and code pieces (called **chunks**). The advantage is that the report will be automatically generated (either as pdf or html document) when compiling the markdown file. All plots will be automatically and dynamically created from the code pieces in the markdown document.
+These will consist in a mixture of plain text (explanations about the analysis, comments,…) and code pieces (called **chunks**). All plots will be automatically and dynamically created from the code pieces in the markdown document.
 
 > Have a look at [this tutorial](https://rmarkdown.rstudio.com/lesson-1.html) or [this one](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R) to get started with RMarkdown; RMarkdown is very easy to generate with RStudio.
 <br>
