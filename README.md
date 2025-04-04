@@ -61,7 +61,7 @@ You can find a description of the 5 topics here:
 - Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_03_Proteome_Screen) (Maiwen Caudron-Herger - R)
   - Tutorin: Michaela Pozzi <M.Pozzi@stud.uni-heidelberg.de>
 
-- Topic 04: [Protein thermostability](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - Python)
+- Topic 04: [Antibody-Antigen Interaction](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - Python)
   - Tutor: Enno Schäfer <enno.schaefer@stud.uni-heidelberg.de>
 
 - Topic 05: [DNA Methylation](https://github.com/maiwen-ch/2025_Data_Analysis_Topic_05_DNA_Methylation.git) (Michael Scherer - R)
